@@ -1,0 +1,221 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 100%;
+  height: 40px;
+}
+.main-container {
+  background: rgba(22, 54, 81, 1);
+  width: 1280px;
+  height: 26px;
+  display: flex;
+  flex-direction: row;
+}
+.head {
+  width: 440px;
+  height: 72px;
+  position: absolute;
+  top: 118px;
+  left: 40px;
+  font-size: 56x;
+  color: rgba(255, 255, 255, 1);
+
+  font-family: Inter;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 67px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.sub-head {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 346px;
+  left: 40px;
+  width: 440px;
+}
+.main-icon {
+  display: flex;
+  flex-direction: row;
+  padding-left: 630px;
+  justify-content: space-around;
+}
+.section2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-left: 393px;
+  margin-top: -12px;
+  width: 844px;
+  height: 72px;
+  top: 40px;
+}
+.tick-button {
+  width: 32.02000427246094px;
+  height: 36px;
+}
+.section1 {
+  width: 32.02000427246094px;
+  padding: 10px 18px;
+  height: 14px;
+  top: 58px;
+  left: 40px;
+}
+.section-text {
+  height: 20px;
+  left: 672px;
+  font-size: 14px;
+  font-family: inter;
+}
+.image-class {
+  width: 100%;
+  height: 656px;
+  padding-top: 48px;
+}
+.detail-class {
+  width: 523px;
+  height: 18px;
+}
+.icon {
+  width: 33px;
+  height: 24px;
+  top: 8px;
+  left: 1120px;
+}
+.button-class {
+  width: 128px;
+  height: 40px;
+  top: 462px;
+  left: 54px;
+  position: absolute;
+}
+
+.footer {
+  width: 1280px;
+  height: 390px;
+  background: rgba(240, 249, 249, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.footer-head {
+  width: 186px;
+  height: 30px;
+  top: 952px;
+  left: 40px;
+}
+.footer-subhead {
+  height: 72px;
+  top: 990px;
+  left: 40px;
+  max-width: 255px;
+  font-family: inter;
+  color: rgba(9, 21, 32, 1);
+}
+.button-icon1 {
+  width: 18.484343px;
+  height: 28px;
+  top: 796px;
+  left: 94.26001px;
+  position: absolute;
+}
+.footer-elipse {
+  width: 35.484343px;
+  height: 40px;
+  top: 876px;
+  left: 57.260009765625px;
+}
+.button-icon2 {
+  width: 19px;
+  height: 23px;
+  top: 801px;
+  left: 521px;
+  position: absolute;
+}
+.button-icon3 {
+  width: 19.500839px;
+  height: 29px;
+  top: 798px;
+  left: 947.245728px;
+  position: absolute;
+}
+.footer-class {
+  padding: 43px 20px;
+}
+.Tax-rebate {
+  width: 316px;
+  height: 444px;
+  top: 153px;
+  left: 875px;
+  padding: 24px;
+  border-radius: 16px;
+  gap: 24px;
+  background: rgba(255, 255, 255, 1);
+  position: absolute;
+}
+.Tax-head {
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 38px;
+  letter-spacing: 0px;
+  text-align: left;
+  width: (365px);
+  height: (491px);
+}
+.input-text {
+  width: 312px;
+  height: 40px;
+  border-radius: 20px;
+  border: 1px;
+  background: linear-gradient(0deg, #ffffff, #ffffff),
+    linear-gradient(0deg, #c4c4c4, #c4c4c4);
+  border: 1px solid rgba(196, 196, 196, 1);
+}
+
+.modal-text {
+  width: 89px;
+  height: 37px;
+}
+
+.check-text {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: linear-gradient(0deg, #091520, #091520),
+    linear-gradient(0deg, #00a5df, #00a5df);
+}
+.check-terms {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0px;
+  color: #00a5df;
+  padding: 10px;
+}
+.apply-class{
+  width: 104px;
+  height: 40px;
+  padding: 19px 24px 11px 19px;
+  border-radius: 24px;
+  gap: 10px;
+  
+}
+.check{
+  padding: 19px 1px;
+}
